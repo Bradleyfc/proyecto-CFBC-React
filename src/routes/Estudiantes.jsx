@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Estudiantes = () => {
   return (
-    <div>Estudiantes</div>
+    <div>Inicio de sesión de Estudiantes</div>
   )
 }
