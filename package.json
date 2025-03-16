@@ -3,12 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://Bradleyfc.github.io/proyecto-CFBC-React",
+  "homepage": "https://Bradleyfc.github.io/proyecto-CFBC-React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predepploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    "predepploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
