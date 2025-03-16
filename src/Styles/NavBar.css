@@ -1,0 +1,19 @@
+/* Hover effect for nav items */
+.nav-pills .nav-item .nav-link:hover:not(.active):not(.disabled) {
+  background-color: rgba(13, 49, 253, 0.928);
+  color: #f9f9f9;
+
+  transition: all 0.3s ease;
+}
+
+/* Optional: Add a subtle transition effect for smoother hover */
+.nav-pills .nav-link {
+  transition: all 0.3s ease;
+}
+
+.dropdown-menu .dropdown-item:hover:not(.active):not(.disabled) {
+  background-color: rgba(13, 49, 253, 0.928);
+  color: #f9f9f9;
+
+  transition: all 0.3s ease;
+}
