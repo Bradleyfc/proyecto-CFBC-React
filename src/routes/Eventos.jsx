@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Eventos = () => {
   return (
-    <div>Eventos</div>
+    <div>Similar a Noticias pero Eventos</div>
   )
 }
